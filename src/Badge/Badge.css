@@ -1,6 +1,6 @@
 .badge {
   width: 317px;
-  height: 360px;
+  height: 373px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -46,6 +46,7 @@
   display: flex;
   justify-content: space-around;
   row-gap: 17px;
+  margin-bottom: 13px;
 }
 
 .email {
