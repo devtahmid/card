@@ -1,0 +1,97 @@
+.badge {
+  width: 317px;
+  height: 360px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #1A1B21;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.name {
+  color: white;
+
+  font-size: 20px;
+  margin: 0px;
+  margin-top: 21px;
+}
+
+.role {
+  color: #F3BF99;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 6.19px;
+  margin-bottom: 5px;
+}
+
+.website {
+  color: #F5F5F5;
+  font-size: 15px;
+}
+
+
+.website a:visited {
+  color: #F5F5F5;
+}
+
+.badge-buttons {
+  margin-top: 15px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  row-gap: 17px;
+}
+
+.email {
+  width: 115px;
+  height: 34px;
+  border-radius: 6px;
+  background: #FFFFFF;
+  border: 1px solid #D1D5DB;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  color: #374151;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.email img {
+  height: 14px;
+  vertical-align: middle;
+  padding: 0px 5px;
+  margin-left: -2px;
+}
+
+
+
+a .link-text-nounderline {
+  text-decoration: none;
+}
+
+
+.linkedin {
+  width: 115px;
+  height: 34px;
+  border-radius: 6px;
+  background: #5093E2;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  color: white;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.linkedin img {
+  height: 14px;
+  vertical-align: middle;
+  padding: 0px 5px;
+  margin-left: -2px;
+}

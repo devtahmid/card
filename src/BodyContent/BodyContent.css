@@ -1,0 +1,35 @@
+.bodycontent-wrapper {
+  width: auto;
+  margin-left: 38px;
+  margin-right: 34px;
+  overflow: hidden;
+  border-radius: 0px 0px 10px 10px;
+}
+
+h3 {
+  margin: 0px;
+}
+
+.about {
+  margin-top: 33px;
+  color: white;
+  font-size: 20px;
+}
+
+.interests {
+  margin-top: 33px;
+  color: white;
+  font-size: 20px;
+}
+
+.about-para {
+  margin-top: 5px;
+  margin-bottom: 27px;
+  color: #DCDCDC;
+}
+
+.interest-para {
+  margin-top: 5px;
+  margin-bottom: 64px;
+  color: #DCDCDC;
+}
