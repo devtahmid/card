@@ -4,7 +4,7 @@ import Pfp from '../assets/pfp.jpg'
 import EmailIcon from '../assets/mail.png'
 import LinkedinIcon from '../assets/linkedin.svg'
 
-export default function () {
+export default function Badge() {
   return (
     <div className='badge'>
       <img src={Pfp} className='image' />

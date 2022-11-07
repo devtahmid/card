@@ -1,7 +1,7 @@
 import React from 'react'
 import './BodyContent.css'
 
-export default function Main() {
+export default function BodyContent() {
   return (
     <div className='bodycontent-wrapper'>
       <h3 className='about'>About</h3>
