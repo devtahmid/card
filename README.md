@@ -2,6 +2,8 @@
 
 
 Hosted at:  
+https://devtahmid.github.io/card/
+
 https://devtahmidcard.netlify.app
 
-https://devtahmid.github.io/card/
+
